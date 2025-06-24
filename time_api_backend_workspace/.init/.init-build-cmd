@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/timenowapi-57491-56e1489d/time_api_backend_workspace/time_api_backend"
+}
